@@ -25,6 +25,7 @@ class TestHomePage(BaseClass):
 
         assert "submitted" in message  # check
         self.GenderSelect(homepage.Gender(), GetDatas["gender"])
+        log.info("Gender is : " + GetDatas["gender"])
         gendertext = homepage.Gender().text
         print (gendertext)
         # OR
