@@ -21,6 +21,7 @@ class TestHomePage(BaseClass):
         homepage.SubmitSelect().click()
         message = homepage.AlertMessage().text
         log.info(message)
+        # logs
 
         assert "submitted" in message  # check
         self.GenderSelect(homepage.Gender(), GetDatas["gender"])
