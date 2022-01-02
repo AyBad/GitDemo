@@ -15,6 +15,7 @@ class TestHomePage(BaseClass):
         homepage.GetName().send_keys(GetDatas["firstname"])
         log.info("first name is : "+GetDatas["firstname"])
         homepage.GetEmail().send_keys(GetDatas["email"])
+        log.info("email is : "+GetDatas["email"])
         homepage.Check().click()
         homepage.RadioSelect().click()
         homepage.SubmitSelect().click()
