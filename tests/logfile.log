@@ -1,0 +1,174 @@
+2021-12-30 23:36:48,410 :ERROR : test_e2e :message is wrong
+2021-12-30 23:44:22,654 :INFO : test_e2e :message is correct
+2021-12-31 00:17:19,460 :INFO : test_e2e :message is correct
+2021-12-31 12:08:56,726 :INFO : test_e2e :message is correct
+2021-12-31 12:09:43,131 :ERROR : test_e2e :message is wrong
+2021-12-31 12:44:27,220 :ERROR : test_e2e :message is wrong
+2021-12-31 13:54:44,984 :ERROR : test_e2e :message is wrong
+2021-12-31 13:58:16,829 :ERROR : test_e2e :message is wrong
+2021-12-31 14:02:03,697 :ERROR : test_e2e :message is wrong
+2021-12-31 14:06:04,200 :ERROR : test_e2e :message is wrong
+2021-12-31 14:08:03,812 :ERROR : test_e2e :message is wrong
+2021-12-31 14:08:37,946 :INFO : test_e2e :message is correct
+2021-12-31 14:10:13,045 :INFO : test_e2e :message is correct
+2021-12-31 14:11:20,875 :INFO : test_e2e :message is correct
+2021-12-31 15:14:47,996 :INFO : test_e2e :message is correct
+2021-12-31 15:36:40,286 :INFO : test_e2e :message is correct
+2021-12-31 15:47:59,447 :INFO : test_e2e :message is correct
+2022-01-01 12:13:29,375 :INFO : test_e2e :message is correct
+2022-01-01 13:25:34,354 :INFO : test_e2e :message is correct
+2022-01-01 14:09:06,259 :INFO : test_e2e :message is correct
+2022-01-01 14:12:36,115 :INFO : test_e2e :message is correct
+2022-01-01 14:46:19,290 :INFO : test_e2e :message is correct
+2022-01-01 15:13:21,094 :INFO : test_formSumission :message is writed
+2022-01-01 15:13:21,526 :INFO : test_formSumission :message is writed
+2022-01-01 15:13:21,526 :INFO : test_formSumission :message is writed
+2022-01-01 15:13:32,177 :INFO : test_formSumission :message is writed
+2022-01-01 15:13:32,644 :INFO : test_formSumission :message is writed
+2022-01-01 15:13:32,644 :INFO : test_formSumission :message is writed
+2022-01-01 15:13:46,005 :INFO : test_e2e :message is correct
+2022-01-01 15:21:46,838 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 15:21:47,285 :INFO : test_formSumission :message is writed
+2022-01-01 15:21:47,450 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 15:21:47,450 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 15:21:47,698 :INFO : test_formSumission :message is writed
+2022-01-01 15:21:47,698 :INFO : test_formSumission :message is writed
+2022-01-01 15:22:01,361 :INFO : test_e2e :message is correct
+2022-01-01 15:27:36,861 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 15:27:37,306 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 15:27:37,517 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 15:27:37,517 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 15:27:37,822 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 15:27:37,822 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 15:27:47,950 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 15:27:48,394 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 15:27:48,624 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 15:27:48,624 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 15:27:48,936 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 15:27:48,936 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 15:28:02,428 :INFO : test_e2e :message is correct
+2022-01-01 17:43:41,456 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 17:43:41,910 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:43:42,141 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:43:42,141 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:43:42,414 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:43:42,414 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:43:56,309 :INFO : test_e2e :message is correct
+2022-01-01 17:47:05,217 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 17:47:05,634 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:47:05,818 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:47:05,818 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:47:06,098 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:47:06,098 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:47:19,967 :INFO : test_e2e :message is correct
+2022-01-01 17:49:01,842 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 17:49:02,233 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:49:02,417 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:49:02,417 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:49:02,674 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:49:02,674 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:49:16,161 :INFO : test_e2e :message is correct
+2022-01-01 17:54:13,466 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 17:54:13,845 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:54:14,036 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:54:14,036 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:54:14,285 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:54:14,285 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:54:27,961 :INFO : test_e2e :message is correct
+2022-01-01 17:56:14,950 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 17:56:15,391 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:56:15,618 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:56:15,618 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:56:15,891 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:56:15,891 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:56:29,316 :INFO : test_e2e :message is correct
+2022-01-01 17:59:17,240 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 17:59:17,714 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:59:17,963 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:59:17,963 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 17:59:18,234 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:59:18,234 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 17:59:31,890 :INFO : test_e2e :message is correct
+2022-01-01 18:14:20,532 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 18:14:21,012 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:14:21,217 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:14:21,217 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:14:21,473 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:14:21,473 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:14:34,960 :INFO : test_e2e :message is correct
+2022-01-01 18:30:41,019 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 18:30:41,394 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:30:41,586 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:30:41,586 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:30:41,835 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:30:41,835 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:36:25,631 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 18:36:26,181 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:36:26,382 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:36:26,382 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:36:26,618 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:36:26,618 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:36:40,150 :INFO : test_e2e :message is correct
+2022-01-01 18:40:00,013 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 18:40:00,450 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:40:00,674 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:40:00,674 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:40:00,967 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:40:00,967 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:40:14,686 :INFO : test_e2e :message is correct
+2022-01-01 18:56:50,779 :INFO : test_formSumission :first name is : Ayman
+2022-01-01 18:56:51,151 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:56:51,335 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:56:51,335 :INFO : test_formSumission :first name is : yasmine
+2022-01-01 18:56:51,592 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:56:51,592 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-01 18:57:05,325 :INFO : test_e2e :message is correct
+2022-01-02 04:44:05,000 :INFO : test_formSumission :first name is : ayman
+2022-01-02 04:44:05,256 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-02 04:45:30,391 :INFO : test_formSumission :first name is : ayman
+2022-01-02 04:45:30,871 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-02 04:46:39,290 :INFO : test_formSumission :first name is : ayman
+2022-01-02 04:46:39,533 :INFO : test_formSumission :×
+Success! The Form has been submitted successfully!.
+2022-01-02 04:46:52,178 :INFO : test_e2e :message is correct
